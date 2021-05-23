@@ -48,6 +48,7 @@ class MetabustacdorController extends Controller
             case 10:
                 return redirect()->to("https://mobile.twitter.com/search?q=$termino");
             break;
+
         }
     }
 
